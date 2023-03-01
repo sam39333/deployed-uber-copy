@@ -1,2 +1,3 @@
 # deployed-uber-copy
-link to deployed uber website http://127.0.0.1:5500/
+link to deployed uber website file:///C:/Users/samra/OneDrive/Desktop/hyf-html-exercises/WEEK2/uber/index.html
+
